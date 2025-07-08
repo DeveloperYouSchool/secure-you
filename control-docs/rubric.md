@@ -1,0 +1,11 @@
+# SecureYou Module 1 – Rubric: Phishing & Social Engineering
+
+> This rubric defines the evaluation criteria for SecureYou Module 1: *Phishing & Social Engineering*. It aligns with CIS Control 14.2 and focuses on internalized knowledge critical to real-world application. Learners will be evaluated based on their demonstrated understanding of these concepts during discussion, reflection, or assessment activities.
+
+| Goal # | Learning Goal | Proficient | Developing | Needs Improvement |
+|--------|----------------|------------|------------|--------------------|
+| 1 | Define phishing and distinguish it from social engineering | Accurately defines both terms and clearly distinguishes them with relevant examples | Defines one term correctly, but is vague or incorrect about the other; may conflate them | Misunderstands, confuses, or omits both terms; unable to articulate a difference |
+| 2 | List and describe common phishing delivery methods, including email, SMS, voice, and social platforms | Lists and clearly describes at least 3+ delivery methods with examples | Lists some methods, but may miss key channels or struggle to explain their usage | Only lists one or two methods with limited or inaccurate detail |
+| 3 | Identify common psychological tactics used in phishing attempts, such as urgency, authority, fear, and curiosity | Recognizes and explains at least 3+ tactics with clarity and real-world examples | Identifies 1–2 tactics with some understanding; may need prompting | Fails to identify or incorrectly explains psychological manipulation techniques |
+| 4 | Recognize the typical visual and structural red flags in phishing messages | Accurately names and explains at least 4+ red flags using sample messages or scenarios | Identifies some red flags but misses key indicators or context | Struggles to identify warning signs; may be overly trusting or uncertain |
+| 5 | Explain the potential consequences of falling for a phishing or social engineering attack | Describes a range of consequences (financial, reputational, operational, personal) with examples | Mentions one or two impacts but may lack specificity or personal relevance | Provides vague or incorrect impacts; fails to connect phishing to meaningful consequences |
