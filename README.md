@@ -13,11 +13,13 @@ This repository contains the full curriculum, teaching materials, and planning d
 
 ```
 SecureYou/
-├── control-docs/        # Course-wide planning and evaluation
-├── module-01-phishing/  # First lesson module: Phishing & Social Engineering
-├── assets/              # Shared visuals and branding resources
-├── docs/                # (Optional) GitHub Pages-ready content
-└── README.md            # You are here
+├── control-docs/        # Course-wide planning and evaluation  
+├── module-1-phishing/  # First lesson module: Phishing & Social Engineering  
+├── module-2-credentials/  # Password security and hygiene  
+├── module-3-device     # Device and environment security  
+├── assets/              # Shared visuals and branding resources  
+├── docs/                # (Optional) GitHub Pages-ready content  
+└── README.md            # You are here  
 ```
 
 ### ✅ Modules
